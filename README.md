@@ -1,7 +1,5 @@
 # Lessons Learned
 
-## Descrição
-
 Lessons Learned é um site que contém informações sobre o que eu aprendi no curso da [Trybe](https://betrybe.com) ao longo dos três primeiros blocos. O site criado conta com elementos estilizados e semântica apropriada para uma melhor acessibilidade e ranqueamento.
 
 ## Tecnologias utilizadas
